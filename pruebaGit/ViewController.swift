@@ -4,7 +4,8 @@
 //
 //  Created by JUAN ANTONIO ROJAS HINOJOSA on 28/02/16.
 //  Copyright © 2016 JUAN ANTONIO ROJAS HINOJOSA. All rights reserved.
-//
+// Nunca es tarde para aprender algo nuevo :) 
+
 
 import UIKit
 
